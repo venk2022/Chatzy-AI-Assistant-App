@@ -1,0 +1,2 @@
+D:/chatbotapp/android/app/.cxx/Debug/5e5x1e6d/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/chatbotapp/android/app/.cxx/Debug/5e5x1e6d/arm64-v8a/CMakeFiles/rebuild_cache.dir

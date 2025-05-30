@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "547622194274",
+    "project_id": "flutterfire-chatbot",
+    "storage_bucket": "flutterfire-chatbot.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547622194274:android:db6c4d9f9780a6803f153b",
+        "android_client_info": {
+          "package_name": "com.example.chatbotapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgHh__RGl-FNPJ45XwSU_EY0CYnZujNew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
